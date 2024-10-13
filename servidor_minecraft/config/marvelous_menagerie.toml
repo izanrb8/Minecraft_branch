@@ -1,0 +1,5 @@
+
+["Configs for Marvelous Menagerie"]
+	#Defines if Prototaxites can be bonemealed, turned on by default, if playing on NeoForge should set it to false as it causes crashes
+	"Can be bonemealed?" = true
+
